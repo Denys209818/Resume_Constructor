@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  TextMethods.cpp
+C:\Users\Denis\Desktop\Новая папка\Resume\Resume\Source.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\Resume\Resume\TextMethods.cpp(28,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Resume.vcxproj -> C:\Users\Denis\Desktop\Новая папка\Resume\x64\Debug\Resume.exe
